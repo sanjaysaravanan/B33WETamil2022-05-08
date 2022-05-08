@@ -1,0 +1,24 @@
+
+Recap:
+  Last Session
+
+Topics:
+  
+  1. Publics APIs
+    Look for You requirement & Choose a type of API
+    Use APIs which has HTTPS & CORS enabled
+    If Signing is fine Go for Auth, HTTPS, CORS enabled
+
+    Read the Documentation Test the API before choosing it
+
+
+  2. Implementation of DOM manipulation examples
+    1. Email Verify examples
+    2. Get City weather examples
+
+  3. Design Ideas, https://spicey-hut.netlify.app/recipe.html, https://shoppingcart-spicyhut.netlify.app/#header
+
+  4. IIFE ---> Immediately Invoked Function Express
+
+  Will start next week
+  5. Mock APIs https://mockapi.io CRUD ( Create, Read, Update, Delete )
